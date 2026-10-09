@@ -7,8 +7,8 @@ with every rule, playbook, and dashboard version-controlled and CI-tested.
 
 Built to run on a single 16 GB workstation.
 
-[![detection-ci](https://github.com/justinmreynolds93-afk/soc-in-a-box/actions/workflows/detection-ci.yml/badge.svg)](https://github.com/justinmreynolds93-afk/soc-in-a-box/actions/workflows/detection-ci.yml)
-[![lint](https://github.com/justinmreynolds93-afk/soc-in-a-box/actions/workflows/lint.yml/badge.svg)](https://github.com/justinmreynolds93-afk/soc-in-a-box/actions/workflows/lint.yml)
+[![detection-ci](https://github.com/JMReyn0/soc-in-a-box/actions/workflows/detection-ci.yml/badge.svg)](https://github.com/JMReyn0/soc-in-a-box/actions/workflows/detection-ci.yml)
+[![lint](https://github.com/JMReyn0/soc-in-a-box/actions/workflows/lint.yml/badge.svg)](https://github.com/JMReyn0/soc-in-a-box/actions/workflows/lint.yml)
 ![scenario coverage](https://img.shields.io/badge/scenario%20coverage-5%2F11%20(45%25)-yellow)
 ![custom rules](https://img.shields.io/badge/custom%20rules-13-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
